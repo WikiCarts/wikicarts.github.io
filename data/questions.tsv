@@ -1,0 +1,29 @@
+key	category	weight	0	1	2	3	4	5	6	7	8	9	10	nota	idc
+voting	gov		auth/olig	olig	strato	dir/rep/min	cons/min								
+votingreform	gov		strato	dir/min	dir	rep	dir*/rep*	cons	auth/olig						
+concentration	gov		dir	strato	min	auth	olig	rep	cons						
+traits	gov		min	dir	auth/olig	rep	strato/olig	cons/rep							
+leaderselect	gov		auth	olig	strato	dir	rep	cons	min						
+policysetting	gov		auth/olig	rep	cons	dir	strato	min							
+peoplepolicy	gov		dir	strato	auth/olig	cons	min	rep							
+representation	gov		min	rep	cons	auth	dir	strato/olig							
+equality	gov		strato/olig	auth	dir/rep/cons	min									
+openness	gov		dir/rep/cons/min	auth/olig	strato	dir/rep/cons									
+freespeech	speech		free	cont	moder	obs	just	cont*							
+profanity	speech		just	cont	free	obs	moder								
+etiquette	speech		cont	obs	moder/just	free									
+literacy	speech		just	obs/free	moder	cont									
+vulgarity	speech		obs	moder/just	cont	free	obs/just								
+banter	speech		moder	obs/free	cont	just									
+rules	legal		decn	retrib/det	warn	warn/rehab	warn/rehab/decn	retrib*							
+blocking	legal		rehab	det	retrib	decn	warn								
+permanent	legal		retrib	warn	decn	det	rehab								
+recidivism	legal		det	decn	rehab	retrib	warn								
+offender	legal		rehab	warn	decn	retrib	det								
+warnings	legal		retrib	rehab/decn	warn/decn	det									
+ambiguity	legal		det	retrib	rehab	warn	decn								
+friendship	for		friend	pop	iso	sov									
+uniformrules	for		pop	friend	iso/sov	pop									
+wikihelp	for		pop	pop*	friend	sov	iso								
+instructions	for		iso	friend	sov	pop									
+wikiunion	for		friend*	friend	iso	sov	pop								
