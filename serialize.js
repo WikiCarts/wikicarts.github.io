@@ -63,12 +63,12 @@ function parseAndPrune(tree) {
     return T
 }
 TREES = [
-            [["cons",["rep*",["dir*","min*"]]],["strato",["olig","auth"],["nota",["idc","cent"]]]],
-            [[["free","obs"],["just","moder"]],[["cont*","idc"],["nota","cent"]]],
-            ["rehab",[["warn","decn"],[["det","retrib*"],["nota",["idc","cent"]]]]],
-            [["pop*","friend*"],["sov",[["idc","nota"],["cent","iso"]]]],
-            ["tsc",[["tsd","tse"],[["tsf","nota"],["idc","cent"]]]],
-            ["tsg",[["tsm","tsn"],["tso",[["tsp","tsq"],["nota",["idc","cent"]]]]]]
+            [["cons",["rep*",["dir*","min*"]]],[["olig","auth"],[["stratr","strato"],["nota",["idc","cent"]]]]],
+            [["modre",["moder",["just",["free","obs"]]]],["kont",["conr",[["cont*","nota"],["idc","cent"]]]]],
+            [[["decn","rehab"],["det","warn"]],[["retrib*","idc"],["nota","cent"]]],
+            ["sov",[["friend*","pop*"],[["iso","nota"],["idc","cent"]]]],
+            ["hum*",[["proced","dec"],["proc",[["lao","prot*"],["nota",["idc","cent"]]]]]],
+            [["open*","glob*"],[["asim","som"],[["nat*","popu"],[["idc","nota"],["cent","ison"]]]]]
         ]
 function encode(data) {
     bits = ["0"]
