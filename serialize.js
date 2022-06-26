@@ -67,8 +67,8 @@ TREES = [
             [["modre",["moder",["just",["free","obs"]]]],["kont",["conr",[["cont*","nota"],["idc","cent"]]]]],
             [[["decn","rehab"],["det","warn"]],[["retrib*","idc"],["nota","cent"]]],
             ["sov",[["friend*","pop*"],[["iso","nota"],["idc","cent"]]]],
-            ["hum*",[["proced","dec"],["proc",[["lao","prot*"],["nota",["idc","cent"]]]]]],
-            [["open*","glob*"],[["asim","som"],[["nat*","popu"],[["idc","nota"],["cent","ison"]]]]]
+            ["testc*",[["testd","teste"],["testf",[["testg","testh*"],["nota",["idc","cent"]]]]]],
+            [["testi*","testj*"],[["testk","testl"],[["testm*","testn"],[["idc","nota"],["cent","testo"]]]]]
         ]
 function encode(data) {
     bits = ["0"]
