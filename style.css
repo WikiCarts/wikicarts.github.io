@@ -63,7 +63,7 @@ a {
     color: var(--theme-link);
     cursor: pointer;
     display: flex;
-    font-weight: bold;
+    /*font-weight: bold;*/
     justify-content: center;
     min-height: 24px;
     padding: 6px 12px;
